@@ -1,0 +1,5 @@
+User-agent:*
+Disallow: /js
+Disallow: /.idea
+
+Sitemap: https://www.rohkea.cl/sitemap.xml

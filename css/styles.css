@@ -1,0 +1,87 @@
+
+/*estilos menus*/
+.links-menu{
+    font-family: Rubik, SansSerif;
+    font-weight: 500;
+    font-size: 13px;
+    color: black;
+}
+/*Colores de marca*/
+.color-fondo-yellow{
+    background-color: #FABA44;
+}
+
+.color-fondo-azul{
+    background-color: #1B152F;
+}
+
+.color-fondo-rojo{
+    background-color: #DB2A3D;
+}
+
+.navbar-link :hover{
+    background-color:yellow;
+}
+
+/*Textos*/
+
+.titulos{
+    font-family: Rubik,SansSerif;
+    font-weight: 700;
+    font-size: 43px;
+    color: black;
+    line-height:60px;
+}
+
+.titulos-secundarios{
+    font-family: Rubik,SansSerif;
+    font-weight: 700;
+    font-size: 40px;
+    color: black;
+    line-height:45px;
+}
+
+.parrafos{
+    font-family: Rubik,SansSerif;
+    font-weight: 300;
+    font-size: 15px;
+    color: black;
+
+}
+
+.titulos-tarjeta{
+    font-family: Rubik,SansSerif;
+    font-weight: 500;
+    font-size: 15px;
+    color: black;
+}
+
+.texto-tarjeta{
+    font-family: Rubik,SansSerif;
+    font-weight: 300;
+    font-size: 13px;
+    color: black;
+}
+
+.texto-footer{
+    font-family: Rubik,SansSerif;
+    font-weight: 300;
+    font-size: 14px;
+    color: black;
+    line-height: 20px;
+}
+
+/*Tarjetas*/
+
+.tarjeta{
+    background-color: white;
+    border-radius: 20px;
+}
+
+
+.icono-contacto{
+    font-size: 25px;
+    margin-top: 20px;
+    padding-right: 20px;
+
+}
